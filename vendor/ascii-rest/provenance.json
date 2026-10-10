@@ -1,0 +1,14 @@
+{
+  "commit": "d23eb890c861f83855b3bd6f3b9bc5258738e988",
+  "repository": "https://github.com/bas3line/ascii",
+  "pieces": [
+    "aurora",
+    "starfield",
+    "matrix-rain",
+    "aurora-fjord",
+    "night-coast",
+    "earthrise"
+  ],
+  "license": "MIT",
+  "retrieved": "2026-10-09"
+}
