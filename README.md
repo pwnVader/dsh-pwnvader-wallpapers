@@ -6,7 +6,13 @@ Autor del código de aplicación: [pwnVader](https://github.com/pwnVader). Versi
 
 ## Compatibilidad e instalación
 
-Objetivo: DeepSeek Harness Desktop/Web **0.2.0-rc.2**, Node >=22.19.0. Incluye lib/ precompilado y el wrapper __ModuleLoader__ requerido. No necesita los otros plugins de esta colección.
+<img width="1567" height="1061" alt="image" src="https://github.com/user-attachments/assets/a05630b5-46b9-44fb-b323-e0d8e52f8136" />
+
+<img width="1556" height="1054" alt="image" src="https://github.com/user-attachments/assets/07069814-666e-4416-ba2a-20f1db1184f5" />
+
+<img width="1558" height="1052" alt="Recording 2026-10-09 214121" src="https://github.com/user-attachments/assets/1ef5d18d-b433-452c-af7b-3a42d0d61b46" />
+
+DeepSeek Harness Desktop/Web **0.2.0-rc.2**, Node >=22.19.0. Incluye lib/ precompilado y el wrapper __ModuleLoader__ requerido. No necesita los otros plugins de esta colección.
 
 Desde una terminal donde dsh esté disponible:
 
